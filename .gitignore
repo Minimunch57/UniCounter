@@ -1,1 +1,8 @@
-/bin/
+# Folders
+bin/
+.settings/
+
+# Files
+UniCounter.iml
+.classpath
+.project
