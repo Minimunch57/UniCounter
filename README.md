@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/Minimunch57/UniCounter/main/com/minimunch57/resources/iconApp.png">
+    <img align="center" src="https://raw.githubusercontent.com/Minimunch57/UniCounter/main/src/com/minimunch57/resources/iconApp.png">
     <br>
     <h1 align="center">UniCounter</h1>
 </p>
