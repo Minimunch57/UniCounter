@@ -8,9 +8,9 @@ import java.awt.event.*;
  *
  */
 public class KeyboardListener extends KeyAdapter {
-	
-    @Override
-    public void keyPressed(KeyEvent ke) {
-    	//	Nothing Until Overridden
-    }
+
+	@Override
+	public void keyPressed(KeyEvent ke) {
+		//	Nothing Until Overridden
+	}
 }
